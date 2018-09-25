@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Sample : MonoBehaviour 
 {
-	public List<int> sampleData;
+	public List<SampleData> sampleData;
 }
