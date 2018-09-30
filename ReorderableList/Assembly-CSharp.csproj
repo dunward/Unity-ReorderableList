@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Sample.cs" />
      <Compile Include="Assets\Scripts\SampleData.cs" />
+     <Compile Include="Assets\Scripts\SampleEnum.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/EGLIK/Desktop/Unity-ReorderableList/ReorderableList/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

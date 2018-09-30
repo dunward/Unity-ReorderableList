@@ -5,6 +5,6 @@ using UnityEngine;
 [System.Serializable]
 public class SampleData
 {
-	public string name;
+	public SampleEnum name;
 	public int damage;
 }
